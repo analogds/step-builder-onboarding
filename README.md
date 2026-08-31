@@ -5,6 +5,8 @@ and asked to turn it into steps a technician can follow on a RealWear headset.
 
 **Read it here: https://analogds.github.io/step-builder-onboarding/**
 
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/cc2e7e2b-8969-4f2f-8825-7fd8590b9dfc" />
+
 One self-contained HTML file — every screenshot is embedded, so it renders with no network and
 prints to PDF from the browser with `Cmd-P`.
 
